@@ -7,6 +7,10 @@ This is WIZ550S2E &amp; WIZ550web &amp; WIZ550SR Configuration Tool
   <img width="100%" src="https://wizwiki.net/wiki/lib/exe/fetch.php?media=products:wiz550s2e:new_wireframe_3.png" />
 </p>
 
+This is the Modbus version repository, see the following link for the MQTT version repository.
+
+https://github.com/Wiznet/WIZnet_Configuration_Tool
+
 ### v1.20
 - First release
 - Added for Modbus field
