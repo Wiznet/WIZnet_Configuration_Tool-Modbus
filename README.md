@@ -14,7 +14,7 @@ https://github.com/Wiznet/WIZnet_Configuration_Tool
 ### v1.20
 - First release
 - Added for Modbus field
-	- Support for WIZ550S2E v1.4.0 or later.
+	- Support for [WIZ550S2E v1.4.0 or later](https://github.com/Wiznet/WIZ550S2E-Modbus).
 
 ### Old version
 - See the following link. [https://github.com/Wiznet/WIZnet_Configuration_Tool](https://github.com/Wiznet/WIZnet_Configuration_Tool)
